@@ -1,0 +1,6 @@
+pandas
+structlog
+streamlit
+altair
+numpy
+mysql.connector
